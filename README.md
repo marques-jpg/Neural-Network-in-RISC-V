@@ -32,6 +32,6 @@ The code incorporates several optimizations to improve computational efficiency:
 4. **In-place ReLU:** The ReLU activation function modifies the array directly in memory, avoiding unnecessary memory allocation and copying.
 5. **Efficient Stack Management:** Optimized use of the stack for context preservation and restoration during function calls.
 
-6. ## License
+## License
 
 MIT License © 2025 Guilherme Marques.
